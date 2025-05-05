@@ -1,0 +1,178 @@
+{
+  "Albania": {
+    "gdp": "23547179830.4413",
+    "population": "2745972"
+  },
+  "Andorra": {
+    "gdp": "3785067331.7625",
+    "population": "80856"
+  },
+  "Armenia": {
+    "gdp": "24085749592.3359",
+    "population": "2990900"
+  },
+  "Austria": {
+    "gdp": "511685203845.001",
+    "population": "9131761"
+  },
+  "Belarus": {
+    "gdp": "71857382745.6066",
+    "population": "9178298"
+  },
+  "Belgium": {
+    "gdp": "644782756682.756",
+    "population": "11787423"
+  },
+  "Bosnia and Herzegovina": {
+    "gdp": "27514782476.0406",
+    "population": "3185073"
+  },
+  "Bulgaria": {
+    "gdp": "102407653020.606",
+    "population": "6446596"
+  },
+  "Croatia": {
+    "gdp": "84393795502.4421",
+    "population": "3859686"
+  },
+  "Cyprus": {
+    "gdp": "33886930712.3394",
+    "population": "1344976"
+  },
+  "Czechia": {
+    "gdp": "343207874553.734",
+    "population": "10864042"
+  },
+  "Denmark": {
+    "gdp": "407091920305.404",
+    "population": "5946952"
+  },
+  "Estonia": {
+    "gdp": "41291245222.1948",
+    "population": "1370286"
+  },
+  "Finland": {
+    "gdp": "295532341254.907",
+    "population": "5583911"
+  },
+  "France": {
+    "gdp": "3051831611384.76",
+    "population": "68287487"
+  },
+  "Germany": {
+    "gdp": "4525703903627.53",
+    "population": "83280000"
+  },
+  "Greece": {
+    "gdp": "243498333237.802",
+    "population": "10405588"
+  },
+  "Hungary": {
+    "gdp": "212388906458.724",
+    "population": "9592186"
+  },
+  "Iceland": {
+    "gdp": "31325116556.3807",
+    "population": "393349"
+  },
+  "Ireland": {
+    "gdp": "551394889339.778",
+    "population": "5307600"
+  },
+  "Italy": {
+    "gdp": "2300941152991.81",
+    "population": "58993475"
+  },
+  "Kosovo": {
+    "gdp": "10468219225.4869",
+    "population": "1756366"
+  },
+  "Latvia": {
+    "gdp": "42247850064.5125",
+    "population": "1877445"
+  },
+  "Lithuania": {
+    "gdp": "79789877416.1681",
+    "population": "2871585"
+  },
+  "Luxembourg": {
+    "gdp": "85755006123.5976",
+    "population": "666430"
+  },
+  "Malta": {
+    "gdp": "22328640241.5553",
+    "population": "552747"
+  },
+  "Moldova": {
+    "gdp": "16539436547.295",
+    "population": "2457783"
+  },
+  "Monaco": {
+    "gdp": "9995350547.12166",
+    "population": "38956"
+  },
+  "Montenegro": {
+    "gdp": "7530593375.22034",
+    "population": "616177"
+  },
+  "Netherlands": {
+    "gdp": "1154361305398.06",
+    "population": "17877117"
+  },
+  "North Macedonia": {
+    "gdp": "15763621848.115",
+    "population": "1827816"
+  },
+  "Norway": {
+    "gdp": "485310823603.662",
+    "population": "5519594"
+  },
+  "Poland": {
+    "gdp": "809200697797.088",
+    "population": "36687353"
+  },
+  "Portugal": {
+    "gdp": "289114289663.542",
+    "population": "10578174"
+  },
+  "Romania": {
+    "gdp": "350775856415.189",
+    "population": "19059479"
+  },
+  "Russian Federation": {
+    "gdp": "2021421476035.42",
+    "population": "143826130"
+  },
+  "Serbia": {
+    "gdp": "81342660752.3732",
+    "population": "6623183"
+  },
+  "Slovak Republic": {
+    "gdp": "132908336234.295",
+    "population": "5426740"
+  },
+  "Slovenia": {
+    "gdp": "69148468417.3208",
+    "population": "2120461"
+  },
+  "Spain": {
+    "gdp": "1620090734956.89",
+    "population": "48347910"
+  },
+  "Sweden": {
+    "gdp": "584960475767.32",
+    "population": "10536632"
+  },
+  "Switzerland": {
+    "gdp": "884940402230.409",
+    "population": "8888093"
+  },
+  "Ukraine": {
+    "gdp": "178757021965.008",
+    "population": "37732836"
+  },
+  "United Kingdom": {
+    "gdp": "3380854520809.54",
+    "population": "68350000"
+  }
+}
